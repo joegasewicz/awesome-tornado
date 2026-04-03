@@ -7,6 +7,7 @@
 ## Contents
 
 - [Third-Party Extensions](#third-party-extensions)
+ - [Auth](#auth)
 
 - [Resources](#resources)
 
@@ -14,6 +15,10 @@
 
 
 ## Third-Party Extensions
+
+### Auth
+
+- [tornado-http-auth](https://github.com/gvalkov/tornado-http-auth) - Digest and basic authentication for Tornado
 
 ## Resources
 
