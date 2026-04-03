@@ -11,12 +11,14 @@
   - [Auth](#auth)
   - [Databases](#databases)
   - [HTTP / Networking](#http--networking)
+  - [Testing](#testing)
   - [WebSockets / Realtime / Interactive](#websockets--realtime--interactive)
+  - [Utils](#utils)
 
 - [Resources](#resources)
 
 - [Projects](#projects)
-
+  - [Open Source Projects](#open-source-projects)
 
 ## Third-Party Extensions
 
@@ -36,15 +38,34 @@ SQLAlchemy helpers doing login/logout/register in Tornado (Currently no document
 
 - [motor](https://github.com/mongodb/motor) - Motor - the async Python driver for MongoDB and Tornado or asyncio
 - [tornado-sqlalchemy](https://github.com/siddhantgoel/tornado-sqlalchemy) - SQLAlchemy support for Tornado
+- [Torndb](https://github.com/bdarnell/torndb) - A lightweight wrapper around MySQLdb. Originally part of the Tornado framework.
+
+#### In Memory
+- [tornado-memcache](https://github.com/dpnova/tornado-memcache) - An async memcache driver for tornado.
 
 ### HTTP / Networking
+- [Tornado-JSON](https://github.com/hfaran/Tornado-JSON) - A simple JSON API framework based on Tornado
 - [tornado-proxy](https://github.com/senko/tornado-proxy) - Asyncronous HTTP proxy with tunnelling (CONNECT) support
+- [tornado-proxy-handlers](https://github.com/timkpaine/tornado-proxy-handlers) - Tornado proxy handlers for HTTP requests and web sockets
 - [tornado-rest](https://github.com/rancavil/tornado-rest) - A simple and useful Restful API for Tornado Web Server
+- [webargs](https://github.com/marshmallow-code/webargs) - A friendly library for parsing HTTP request arguments, with built-in support for popular web frameworks, including Tornado
+
+### Testing
+- [pytest-tornado](https://github.com/eugeniy/pytest-tornado) - A py.test plugin providing fixtures and markers to simplify testing of asynchronous tornado applications.
 
 ### WebSockets / Realtime / Interactive
 - [terminado](https://github.com/jupyter/terminado) - Terminals served by tornado websockets
 
+### Utils
+- [tornadomail](https://github.com/equeny/tornadomail) - Django mail system ported to tornado and made asynchronous
+
 ## Resources
+
+## Projects 
+### Open Source Projects
+- [Fukei](https://github.com/whiteclover/Fukei) - A socks proxy based Tornado
+- [webssh](https://github.com/huashengdun/webssh) - 🌱 Web based ssh client
+- [Young](https://github.com/shiyanhui/Young) - A full-featured forum software built on Tornado and MongoDB.
 
 ### Official Resources
 - [User Guide](https://www.tornadoweb.org/en/stable/guide.html)
