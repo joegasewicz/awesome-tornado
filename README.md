@@ -16,6 +16,7 @@
   - [Utils](#utils)
 
 - [Resources](#resources)
+  - [Books](#books) 
 
 - [Projects](#projects)
   - [Open Source Projects](#open-source-projects)
@@ -61,6 +62,9 @@ SQLAlchemy helpers doing login/logout/register in Tornado (Currently no document
 - [tornadomail](https://github.com/equeny/tornadomail) - Django mail system ported to tornado and made asynchronous
 
 ## Resources
+
+### Books
+- [Introduction-to-Tornado](https://www.oreilly.com/library/view/introduction-to-tornado/9781449312787) - Walk through the basics of Tornado, the high-performance web server known for its speed, simplicity, and scalability on projects large and small
 
 ## Projects 
 ### Open Source Projects
