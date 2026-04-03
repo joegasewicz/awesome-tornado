@@ -7,8 +7,11 @@
 ## Contents
 
 - [Third-Party Extensions](#third-party-extensions)
+  - [Async](#async)
   - [Auth](#auth)
   - [Databases](#databases)
+  - [HTTP / Networking](#http--networking)
+  - [WebSockets / Realtime / Interactive](#websockets--realtime--interactive)
 
 - [Resources](#resources)
 
@@ -16,6 +19,10 @@
 
 
 ## Third-Party Extensions
+
+### Async
+
+- [sockjs-tornado](https://github.com/mrjoes/sockjs-tornado) - WebSocket emulation - Python server
 
 ### Auth
 
@@ -26,7 +33,16 @@ SQLAlchemy helpers doing login/logout/register in Tornado (Currently no document
 ### Databases
 
 #### ORMs
+
+- [motor](https://github.com/mongodb/motor) - Motor - the async Python driver for MongoDB and Tornado or asyncio
 - [tornado-sqlalchemy](https://github.com/siddhantgoel/tornado-sqlalchemy) - SQLAlchemy support for Tornado
+
+### HTTP / Networking
+- [tornado-proxy](https://github.com/senko/tornado-proxy) - Asyncronous HTTP proxy with tunnelling (CONNECT) support
+- [tornado-rest](https://github.com/rancavil/tornado-rest) - A simple and useful Restful API for Tornado Web Server
+
+### WebSockets / Realtime / Interactive
+- [terminado](https://github.com/jupyter/terminado) - Terminals served by tornado websockets
 
 ## Resources
 
