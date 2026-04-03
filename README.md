@@ -44,6 +44,7 @@ SQLAlchemy helpers doing login/logout/register in Tornado (Currently no document
 - [tornado-memcache](https://github.com/dpnova/tornado-memcache) - An async memcache driver for tornado.
 
 ### HTTP / Networking
+- [pycronado](https://github.com/inaimathi/pycronado) - A minimal framework for Tornado-based microservices (currently no docs).
 - [Tornado-JSON](https://github.com/hfaran/Tornado-JSON) - A simple JSON API framework based on Tornado
 - [tornado-proxy](https://github.com/senko/tornado-proxy) - Asyncronous HTTP proxy with tunnelling (CONNECT) support
 - [tornado-proxy-handlers](https://github.com/timkpaine/tornado-proxy-handlers) - Tornado proxy handlers for HTTP requests and web sockets
