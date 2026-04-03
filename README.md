@@ -8,6 +8,7 @@
 
 - [Third-Party Extensions](#third-party-extensions)
   - [Auth](#auth)
+  - [Databases](#databases)
 
 - [Resources](#resources)
 
@@ -21,6 +22,11 @@
 - [tornado-http-auth](https://github.com/gvalkov/tornado-http-auth) - Digest and basic authentication for Tornado
 - [tornado-sqlalchemy-login](https://github.com/tkp-archive/tornado-sqlalchemy-login) - About
 SQLAlchemy helpers doing login/logout/register in Tornado (Currently no documentation)
+
+### Databases
+
+#### ORMs
+- [tornado-sqlalchemy](https://github.com/siddhantgoel/tornado-sqlalchemy) - SQLAlchemy support for Tornado
 
 ## Resources
 
