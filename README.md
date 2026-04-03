@@ -7,7 +7,7 @@
 ## Contents
 
 - [Third-Party Extensions](#third-party-extensions)
- - [Auth](#auth)
+  - [Auth](#auth)
 
 - [Resources](#resources)
 
