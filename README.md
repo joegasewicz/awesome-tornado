@@ -19,6 +19,8 @@
 ### Auth
 
 - [tornado-http-auth](https://github.com/gvalkov/tornado-http-auth) - Digest and basic authentication for Tornado
+- [tornado-sqlalchemy-login](https://github.com/tkp-archive/tornado-sqlalchemy-login) - About
+SQLAlchemy helpers doing login/logout/register in Tornado (Currently no documentation)
 
 ## Resources
 
