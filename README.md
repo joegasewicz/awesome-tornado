@@ -29,6 +29,7 @@
 
 ### Auth
 
+- [tornado-auth-sessions](https://github.com/joegasewicz/tornado-auth-sessions) - Simple, secure Redis-backed session mixin for Tornado.
 - [tornado-http-auth](https://github.com/gvalkov/tornado-http-auth) - Digest and basic authentication for Tornado
 - [tornado-sqlalchemy-login](https://github.com/tkp-archive/tornado-sqlalchemy-login) - About
 SQLAlchemy helpers doing login/logout/register in Tornado (Currently no documentation)
