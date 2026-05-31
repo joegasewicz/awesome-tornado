@@ -54,6 +54,10 @@ SQLAlchemy helpers doing login/logout/register in Tornado (Currently no document
 - [tornado-rest](https://github.com/rancavil/tornado-rest) - A simple and useful Restful API for Tornado Web Server
 - [webargs](https://github.com/marshmallow-code/webargs) - A friendly library for parsing HTTP request arguments, with built-in support for popular web frameworks, including Tornado
 
+### CyberSecurity
+
+- [TornadoAPI Guard](https://github.com/rennf93/tornadoapi-guard) - Rate Limiting, Automatically Ban IPs, Penetration Attack Detection, Whitelist/blacklist (countries, IPs, Cloud Providers), User Agent Filtering, Geolocation, Redis integration for persistence, and more.
+
 ### Testing
 - [pytest-tornado](https://github.com/eugeniy/pytest-tornado) - A py.test plugin providing fixtures and markers to simplify testing of asynchronous tornado applications.
 
