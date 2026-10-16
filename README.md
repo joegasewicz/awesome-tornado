@@ -11,6 +11,7 @@
   - [Auth](#auth)
   - [Databases](#databases)
   - [HTTP / Networking](#http--networking)
+  - [CyberSecurity](#cybersecurity)
   - [Testing](#testing)
   - [WebSockets / Realtime / Interactive](#websockets--realtime--interactive)
   - [Utils](#utils)
@@ -56,7 +57,7 @@ SQLAlchemy helpers doing login/logout/register in Tornado (Currently no document
 
 ### CyberSecurity
 
-- [TornadoAPI Guard](https://github.com/rennf93/tornadoapi-guard) - Rate Limiting, Automatically Ban IPs, Penetration Attack Detection, Whitelist/blacklist (countries, IPs, Cloud Providers), User Agent Filtering, Geolocation, Redis integration for persistence, and more.
+- [TornadoAPI Guard](https://github.com/Guard-Core/tornadoapi-guard) - Rate Limiting, Automatically Ban IPs, Penetration Attack Detection, Whitelist/blacklist (countries, IPs, Cloud Providers), User Agent Filtering, Geolocation, Redis integration for persistence, and more.
 
 ### Testing
 - [pytest-tornado](https://github.com/eugeniy/pytest-tornado) - A py.test plugin providing fixtures and markers to simplify testing of asynchronous tornado applications.
